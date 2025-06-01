@@ -1,0 +1,25 @@
+# 🔧 KiCad Generated Files
+*.bak
+*.tmp
+*.kicad_prl
+*.kicad_sch-bak
+fp-info-cache
+sym-lib-table-bak
+
+# 🧠 Boks
+books/
+
+
+
+# 🧱 System files
+.DS_Store
+Thumbs.db
+
+
+
+
+# 🚫 Manufacturing exports
+*.gbr
+*.drl
+*.pos
+*.bom
