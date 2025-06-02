@@ -16,7 +16,8 @@ books/
 Thumbs.db
 
 
-
+# 📂 KiCad Project Files
+KiCad/
 
 # 🚫 Manufacturing exports
 *.gbr
